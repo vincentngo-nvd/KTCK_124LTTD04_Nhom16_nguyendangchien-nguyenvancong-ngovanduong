@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.ktck_124lttd04_nhom16"
+    namespace = "com.example.ktck124_lop124lttd04_nhom16"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.ktck_124lttd04_nhom16"
+        applicationId = "com.example.ktck124_lop124lttd04_nhom16"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

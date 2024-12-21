@@ -1,4 +1,4 @@
-package com.example.ktck_124lttd04_nhom16;
+package com.example.ktck124_lop124lttd04_nhom16;
 
 import org.junit.Test;
 

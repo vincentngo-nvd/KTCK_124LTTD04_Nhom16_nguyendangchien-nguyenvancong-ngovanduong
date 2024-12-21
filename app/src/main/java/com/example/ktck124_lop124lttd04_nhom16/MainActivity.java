@@ -1,4 +1,4 @@
-package com.example.ktck_124lttd04_nhom16;
+package com.example.ktck124_lop124lttd04_nhom16;
 
 import android.os.Bundle;
 
@@ -7,6 +7,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
+
+import com.example.ktck124_lop124lttd04_nhom16.R;
 
 public class MainActivity extends AppCompatActivity {
 
