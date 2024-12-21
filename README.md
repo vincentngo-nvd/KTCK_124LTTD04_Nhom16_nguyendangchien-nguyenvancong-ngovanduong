@@ -6,3 +6,4 @@ Lập trình trên điện thoại di động - Kiểm tra cuối kì - 10h-11h 
   + Nguyễn Đăng Chiến - 22115053122306
   + Nguyễn Văn Công   - 22115053122307
   + Ngô Văn Dương     - 22115053122312
+- Link Google Drive gồm video quay kết quả và zip code nộp của Ngô Văn Dương: https://drive.google.com/drive/folders/1lOniGo9cREFiXJBKHpNmkQUJJ4TVNzeF?usp=sharing
