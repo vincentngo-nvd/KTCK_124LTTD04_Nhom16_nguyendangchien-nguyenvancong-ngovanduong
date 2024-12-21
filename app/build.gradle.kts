@@ -40,4 +40,8 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
+
+    implementation ("androidx.recyclerview:recyclerview:1.2.1")
+    implementation ("com.google.firebase:firebase-database:20.2.2")
+    implementation ("com.google.firebase:firebase-storage:20.2.0")
 }

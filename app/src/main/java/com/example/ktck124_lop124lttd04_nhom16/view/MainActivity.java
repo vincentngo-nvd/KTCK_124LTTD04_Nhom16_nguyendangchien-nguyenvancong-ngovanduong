@@ -1,4 +1,4 @@
-package com.example.ktck124_lop124lttd04_nhom16;
+package com.example.ktck124_lop124lttd04_nhom16.view;
 
 import android.os.Bundle;
 
